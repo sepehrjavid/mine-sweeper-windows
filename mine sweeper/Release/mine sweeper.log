@@ -1,0 +1,46 @@
+﻿  Source.cpp
+Source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(174): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(178): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+Source.cpp(184): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(195): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(196): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(205): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(210): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(214): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(216): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(225): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(244): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(251): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(252): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(309): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(327): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(332): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(337): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(339): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(348): warning C4018: '<=': signed/unsigned mismatch
+Source.cpp(146): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(234): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+Source.cpp(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+  Generating code
+  1 of 16 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mine sweeper.vcxproj -> D:\programing\c\my files\mine sweeper\Release\mine sweeper.exe
